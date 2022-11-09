@@ -26,6 +26,7 @@ module "vpc" {
 
 - [Complete](examples/complete/)
 - [Simple](examples/simple/)
+- [Transit Gateway Peering](example/transit_gateway_peering/)
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
