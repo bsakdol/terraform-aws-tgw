@@ -24,9 +24,10 @@ module "vpc" {
 
 ## Examples
 
-- [Complete](examples/complete/)
-- [Simple](examples/simple/)
-- [Transit Gateway Peering](example/transit_gateway_peering/)
+- [Complete](./examples/complete/)
+- [Simple](./examples/simple/)
+- [Transit Gateway Peering](./example/transit_gateway_peering/)
+- [Transit Gateway VPC Attachment](./example/vpc_attachment/)
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
